@@ -33,11 +33,13 @@ class Datos:
             print(p) 
 # creacion de objeto
 info=Datos(1.75,10.5)
-
 # utilizando el obj.
 info.mostrar_datos()
 print(" Lista de usuarios Angel Gabriel Alvardo Aguirre")
 info.mi_lista()
+print(" Lista de informacion de auto")
 info.diccionario()
+print(" Lista de frutas")
 info.mi_set()
+print(" Lista de mis novias")
 info.mi_tupla()
