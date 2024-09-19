@@ -18,6 +18,7 @@ class Datos:
     "Modelo": "Sonic",
     "Año": 2012
 }
+        print(auto)
         for x,y in auto.items():
             print(x,y) 
     def mi_set(self):
